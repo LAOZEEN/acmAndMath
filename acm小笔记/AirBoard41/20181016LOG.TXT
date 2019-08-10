@@ -1,0 +1,92 @@
+20181016 21:12:57.011 [INFO],-000000001,Riven Machine Id=            WDE3BG9A Manufacture=Dell Inc. Model=Inspiron 15 7000 Gaming AirBoardVersion=Version 4.1.6179.38188(win20161201)
+
+20181016 21:13:06.387 [VoiceConst],748839861,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:13:06.617 [WasapiMode],748839861,Riven Shared Mode
+
+20181016 21:13:06.621 [VoiceCaptureMode],748839861,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:13:41.534 [VoiceConst],748839861,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:13:41.694 [WasapiMode],748839861,Riven Shared Mode
+
+20181016 21:13:41.699 [VoiceCaptureMode],748839861,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:13:45.491 [INFO],-000000001,Riven Machine Id=            WDE3BG9A Manufacture=Dell Inc. Model=Inspiron 15 7000 Gaming AirBoardVersion=Version 4.1.6179.38188(win20161201)
+
+20181016 21:13:48.565 [VoiceConst],748839861,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:13:48.772 [WasapiMode],748839861,Riven Shared Mode
+
+20181016 21:13:48.776 [VoiceCaptureMode],748839861,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:14:07.103 [VoiceConst],748839861,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:14:07.255 [WasapiMode],748839861,Riven Shared Mode
+
+20181016 21:14:07.257 [VoiceCaptureMode],748839861,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:15:40.618 [VoiceConst],748839861,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:15:40.754 [WasapiMode],748839861,Riven Shared Mode
+
+20181016 21:15:40.757 [VoiceCaptureMode],748839861,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:18:41.455 [VoiceConst],748839861,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:18:41.594 [WasapiMode],748839861,Riven Shared Mode
+
+20181016 21:18:41.597 [VoiceCaptureMode],748839861,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:18:49.216 [VoiceConst],383943468,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:18:49.352 [WasapiMode],383943468,Riven Shared Mode
+
+20181016 21:18:49.355 [VoiceCaptureMode],383943468,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:19:03.301 [VoiceConst],383943468,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:19:03.439 [WasapiMode],383943468,Riven Shared Mode
+
+20181016 21:19:03.442 [VoiceCaptureMode],383943468,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:19:13.871 [VoiceConst],383943468,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:19:14.012 [WasapiMode],383943468,Riven Shared Mode
+
+20181016 21:19:14.015 [VoiceCaptureMode],383943468,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:19:17.029 [VoiceConst],290934244,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:19:17.171 [WasapiMode],290934244,Riven Shared Mode
+
+20181016 21:19:17.173 [VoiceCaptureMode],290934244,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:19:40.038 [VoiceConst],654850115,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:19:40.180 [WasapiMode],654850115,Riven Shared Mode
+
+20181016 21:19:40.183 [VoiceCaptureMode],654850115,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:30:23.205 [INFO],-000000001,Riven Machine Id=            WDE3BG9A Manufacture=Dell Inc. Model=Inspiron 15 7000 Gaming AirBoardVersion=Version 4.1.6179.38188(win20161201)
+
+20181016 21:30:34.160 [VoiceConst],654850115,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:30:34.372 [WasapiMode],654850115,Riven Shared Mode
+
+20181016 21:30:34.376 [VoiceCaptureMode],654850115,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:32:38.335 [INFO],-000000001,Riven Machine Id=            WDE3BG9A Manufacture=Dell Inc. Model=Inspiron 15 7000 Gaming AirBoardVersion=Version 4.1.6179.38188(win20161201)
+
+20181016 21:32:48.396 [VoiceConst],123456789,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:32:48.611 [WasapiMode],123456789,Riven Shared Mode
+
+20181016 21:32:48.615 [VoiceCaptureMode],123456789,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+
+20181016 21:32:54.994 [VoiceConst],123456789,Riven {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20181016 21:32:55.137 [WasapiMode],123456789,Riven Shared Mode
+
+20181016 21:32:55.140 [VoiceCaptureMode],123456789,Riven 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b}
+

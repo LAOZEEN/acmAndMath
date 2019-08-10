@@ -1,0 +1,157 @@
+#include<stdio.h>
+#include<string.h>
+#include<string>
+#include<stdlib.h>
+#include<math.h>
+#include<algorithm>
+#include<queue>
+#include<time.h>
+#include<stack>
+#include<set>
+#include<map>
+#include<vector>
+#include<iostream>
+using namespace std;
+#define ll long long
+#define mes(x,a) memset(x,a,sizeof(x));
+#define lowbit(x)  x & (-x)
+#define fi first
+#define se second
+#define pii pair<int, int>
+const double eps=1e-9;
+const double pi=acos(-1);
+const int maxn=1e5+5;
+const int maxm=1e7+5;
+const int inf =0x3f3f3f3f;
+const int mod=1e9+7;
+char mp[35][35][35];
+int vis[35][35][35];
+int step[35][35][35];
+int go[6][3]= {1,0,0,-1,0,0,0,1,0,0,-1,0,0,0,1,0,0,-1};
+int n,m,v,ans;
+struct node
+{
+    int x,y,z,time;
+    node() {}
+    node(int xx,int yy,int zz,int timee):x(xx),y(yy),z(zz),time(timee) {};
+};
+node s,t;
+queue<node>que1,que2;
+void init()
+{
+    for(int i=1; i<=n; i++)
+        for(int j=1; j<=m; j++)
+            for(int k=1; k<=v; k++)
+                vis[i][j][k]=step[i][j][k]=0;
+    ans=-1;
+    while(!que1.empty())
+    {
+        que1.pop();
+    }
+    while(!que2.empty())
+        que2.pop();
+}
+bool judge(node a)
+{
+    if(a.x>0&&a.x<=n&&a.y>0&&a.y<=m&&a.z>0&&a.z<=v)
+        return 1;
+    return 0;
+}
+void findst()
+{
+    bool flag=false;
+    for(int i=1; i<=n; i++)
+        for(int j=1; j<=m; j++)
+            for(int k=1; k<=v; k++)
+            {
+                if(mp[i][j][k]=='S')
+                {
+                    s=node(i,j,k,0);
+                    if(flag)
+                        return ;
+                    flag=true;
+                }
+                if(mp[i][j][k]=='E')
+                {
+                    t=node(i,j,k,0);
+                    if(flag)
+                        return ;
+                    flag=true;
+                }
+            }
+}
+bool bfs2(queue<node> &que,bool flag)
+{
+    node now,to;
+    now=que.front();
+    que.pop();
+    for(int i=0; i<6; i++)
+    {
+        to=node(now.x+go[i][0],now.y+go[i][1],now.z+go[i][2],now.time+1);
+        if(judge(to)&&mp[to.x][to.y][to.z]!='#')
+        {
+            if(flag)
+            {
+                if(vis[to.x][to.y][to.z]!=1)
+                {
+                    if(vis[to.x][to.y][to.z]==2)
+                    {
+                        ans=to.time+step[to.x][to.y][to.z];
+                        return true;
+                    }
+                    step[to.x][to.y][to.z]=to.time;
+                    vis[to.x][to.y][to.z]=1;
+                    que.push(to);
+                }
+            }
+            else
+            {
+                if(vis[to.x][to.y][to.z]!=2)
+                {
+                    if(vis[to.x][to.y][to.z]==1)
+                    {
+                        ans=to.time+step[to.x][to.y][to.z];
+                        return true;
+                    }
+                    step[to.x][to.y][to.z]=to.time;
+                    vis[to.x][to.y][to.z]=2;
+                    que.push(to);
+                }
+            }
+        }
+    }
+    return false;
+}
+void bfs()
+{
+    que1.push(s);
+    que2.push(t);
+    vis[s.x][s.y][s.z]=1;
+    vis[t.x][t.y][t.z]=2;
+    while(!que1.empty()||!que2.empty())
+    {
+        if(!que1.empty())
+            if(bfs2(que1,true))
+                return ;
+        if(que2.empty()==0)
+            if(bfs2(que2,false))
+                return ;
+    }
+}
+int main()
+{
+    while(~scanf("%d%d%d",&n,&m,&v)&&n)
+    {
+        for(int i=1; i<=n; i++)
+            for(int j=1; j<=m; j++)
+                scanf("%s",mp[i][j]+1);
+        init();
+        findst();
+        //printf("%d %d %d\n",s.x,s.y,s.z);
+        bfs();
+        if(ans==-1)
+            puts("Trapped!");
+        else
+            printf("Escaped in %d minute(s).\n",ans);
+    }
+}

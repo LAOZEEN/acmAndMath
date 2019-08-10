@@ -1,0 +1,215 @@
+20190403 16:11:09.108 [INFO],-000000001,asus Machine Id=           86MBW1OHT Manufacture=ASUSTeK COMPUTER INC. Model=X556UR AirBoardVersion=Version 4.1.6179.38188(win20161201)
+
+20190403 16:11:43.439 [VoiceConst],147258369,asus {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
+
+20190403 16:11:44.907 [WasapiMode],147258369,asus Shared Mode
+
+20190403 16:11:44.913 [VoiceCaptureMode],147258369,asus 内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek High Definition Audio)@{0.0.1.00000000}.{5d3481b3-f543-4f51-9213-5ec91a611be3}
+
+20190403 16:11:50.173 [SoundHasDataDelay>=40],147258369,asus 间隔=46ms 播放队列=50ms 录音队列=40ms Delta = 0ms
+
+20190403 16:12:08.825 [SoundHasDataDelay>=40],147258369,asus 间隔=57ms 播放队列=60ms 录音队列=50ms Delta = 18652ms
+
+20190403 16:13:53.249 [NetworkQuality],147258369,asus Quality = 98.00%
+
+20190403 16:15:09.951 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=-1ms
+
+20190403 16:15:24.245 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=14290ms
+
+20190403 16:15:24.585 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=677ms Delta = 0ms
+
+20190403 16:15:24.594 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=346ms
+
+20190403 16:15:24.612 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 650ms Delta = 0ms
+
+20190403 16:15:30.277 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=5678ms
+
+20190403 16:15:30.721 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=767ms Delta = 6136ms
+
+20190403 16:15:30.730 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=450ms
+
+20190403 16:15:30.746 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 770ms Delta = 6135ms
+
+20190403 16:15:31.815 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=1081ms
+
+20190403 16:15:31.846 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=341ms Delta = 1124ms
+
+20190403 16:15:31.877 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=57ms
+
+20190403 16:16:02.455 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=30575ms
+
+20190403 16:16:02.835 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 30989ms
+
+20190403 16:16:02.844 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=384ms
+
+20190403 16:16:02.865 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 760ms Delta = 32120ms
+
+20190403 16:16:11.743 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=8891ms
+
+20190403 16:16:12.407 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=962ms Delta = 9573ms
+
+20190403 16:16:12.419 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=672ms
+
+20190403 16:16:12.436 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 530ms Delta = 9570ms
+
+20190403 16:16:12.582 [ReceiveJitter],147258369,asus {
+  "JitterUserName": "Jiaaaaaaaqi",
+  "LostFrameCount": 4,
+  "LastFrameIndex": 6975,
+  "NowFrameIndex": 6970
+} Delta = 176ms
+
+20190403 16:16:12.594 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 520ms Delta = 158ms
+
+20190403 16:16:12.897 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=473ms
+
+20190403 16:16:13.108 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=514ms Delta = 525ms
+
+20190403 16:16:13.118 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=217ms
+
+20190403 16:16:13.136 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 690ms Delta = 542ms
+
+20190403 16:16:54.056 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=40933ms
+
+20190403 16:16:54.462 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=743ms Delta = 41354ms
+
+20190403 16:16:54.472 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=413ms
+
+20190403 16:16:54.491 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 570ms Delta = 41355ms
+
+20190403 16:16:54.797 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=319ms
+
+20190403 16:16:54.956 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=483ms Delta = 493ms
+
+20190403 16:16:54.963 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=163ms
+
+20190403 16:16:54.981 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 620ms Delta = 489ms
+
+20190403 16:17:11.934 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=16966ms
+
+20190403 16:17:12.353 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=756ms Delta = 17398ms
+
+20190403 16:17:12.363 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=425ms
+
+20190403 16:17:12.381 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 17400ms
+
+20190403 16:17:20.520 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=207ms Delta = 8167ms
+
+20190403 16:17:45.333 [SoundHasDataDelay>=80],147258369,asus 间隔=91ms 播放队列=10ms 录音队列=90ms Delta = 0ms
+
+20190403 16:18:41.926 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=89558ms
+
+20190403 16:18:42.204 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=603ms Delta = 81684ms
+
+20190403 16:18:42.241 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=310ms
+
+20190403 16:18:42.258 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 610ms Delta = 89877ms
+
+20190403 16:18:43.767 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=1521ms
+
+20190403 16:18:44.147 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=522ms Delta = 1942ms
+
+20190403 16:18:44.158 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=387ms
+
+20190403 16:18:44.176 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 690ms Delta = 1918ms
+
+20190403 16:18:55.490 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=11326ms
+
+20190403 16:18:55.921 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=756ms Delta = 11775ms
+
+20190403 16:18:55.956 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=462ms
+
+20190403 16:18:55.974 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 780ms Delta = 11798ms
+
+20190403 16:19:25.323 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=29362ms
+
+20190403 16:19:25.754 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 29832ms
+
+20190403 16:19:25.764 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=438ms
+
+20190403 16:19:25.782 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 29809ms
+
+20190403 16:19:26.097 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=328ms
+
+20190403 16:19:26.438 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=674ms Delta = 685ms
+
+20190403 16:19:26.483 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=383ms
+
+20190403 16:19:26.500 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 700ms Delta = 717ms
+
+20190403 16:20:23.333 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=56846ms
+
+20190403 16:20:23.753 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=744ms Delta = 57315ms
+
+20190403 16:20:23.763 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=426ms
+
+20190403 16:20:23.781 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 57282ms
+
+20190403 16:20:44.127 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=20358ms
+
+20190403 16:20:44.558 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 20805ms
+
+20190403 16:20:44.568 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=437ms
+
+20190403 16:20:44.586 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 20805ms
+
+20190403 16:20:53.863 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=9291ms
+
+20190403 16:20:54.242 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=728ms Delta = 9684ms
+
+20190403 16:20:54.250 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=383ms
+
+20190403 16:20:54.267 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 690ms Delta = 9681ms
+
+20190403 16:20:56.376 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=2122ms
+
+20190403 16:20:56.808 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=769ms Delta = 2566ms
+
+20190403 16:20:56.842 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=462ms
+
+20190403 16:20:56.860 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 780ms Delta = 2593ms
+
+20190403 16:21:04.493 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=7646ms
+
+20190403 16:21:04.911 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 8103ms
+
+20190403 16:21:04.996 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=501ms
+
+20190403 16:21:05.013 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 820ms Delta = 8153ms
+
+20190403 16:21:34.282 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=29281ms
+
+20190403 16:21:34.740 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=782ms Delta = 29828ms
+
+20190403 16:21:34.754 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=468ms
+
+20190403 16:21:34.771 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 29757ms
+
+20190403 16:22:27.694 [NetworkQuality],147258369,asus Quality = 97.00%
+
+20190403 16:22:47.868 [NetworkQuality],147258369,asus Quality = 94.00%
+
+20190403 16:22:57.818 [SoundCardDelay],147258369,asus Median=436 Std=4 VadRatio=46%
+
+20190403 16:23:18.129 [NetworkQuality],147258369,asus Quality = 98.00%
+
+20190403 16:23:26.607 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=111848ms
+
+20190403 16:23:26.972 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=715ms Delta = 112232ms
+
+20190403 16:23:26.984 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=375ms
+
+20190403 16:23:27.003 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 112233ms
+
+20190403 16:23:57.512 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A1 Stage 总长度=30521ms
+
+20190403 16:23:57.918 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=717ms Delta = 30946ms
+
+20190403 16:23:57.924 [PlaybackState],147258369,asus 用户=Jiaaaaaaaqi | A0 Stage 总长度=410ms
+
+20190403 16:23:57.941 [PlaybackStateShrink],147258369,asus 用户=Jiaaaaaaaqi | 声音缓冲大小 = 700ms Delta = 30938ms
+
+20190403 16:23:58.736 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=220ms Delta = 819ms
+
+20190403 16:24:06.096 [ReceiveJitter],147258369,asus 用户=Jiaaaaaaaqi | 接收Jitter长度=208ms Delta = 7360ms
+

@@ -1,0 +1,32 @@
+for (int i = 1; i <= n; i++) {//一种无数个问题，即没有限定最多放多少个
+        for (int j = weight[i]; j <= m; j++) {//从weight[i]开始，是因为可以同一种类多次放入，区别于01背包
+            f[j] = max(f[j], f[j - weight[i]] + value[i]);
+        }
+    }
+
+
+//限定最多放多少个,所以在背包存储大小设置一个关于数量的dp数组
+21         for( int i = 1; i <= k; i++ )
+22             for( int j = de[i]; j <= m && sum[j - de[i]] + 1 <= s; j++ )//第一列随着j的增大，value累加，与01背包	的区别
+23                 if( dp[j] < dp[j - de[i]] + exp[i] ){
+24                     dp[j] = dp[j - de[i]] + exp[i];
+25                     sum[j] = sum[j - de[i]] + 1;
+26                 }
+27 
+28         int flag = 1;
+29         for( int i = 1; i <= m; i++ )
+30             if( dp[i] >= n ){
+31                 cout << m - i << endl;
+32                 flag = 0;
+33                 break;
+34             }
+35         if( flag ) cout << -1 << endl;
+36     }
+
+
+
+for(int i=1;i<=m;i++){//限制总重量
+	for(int j=1;j<=K;j++){//种类总数
+		for(int k=1;k<=s;k++){//限制放进去的个数‘
+			if(weight[i]<j)
+				dp[i][k]=max(dp[i][k],dp[i-weight[j]][k-1]);

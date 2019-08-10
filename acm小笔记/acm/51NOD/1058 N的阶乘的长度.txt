@@ -1,0 +1,7 @@
+#define PI 3.1415926
+	int  a = (int)((0.5 * log(2 * PI * m) + m * log(m) - m) / log(10));
+        printf("%d\n", a + 1);
+斯特林公式
+其中m为要求的几阶数
+log(10)表示是十进制时候
+a+1表示的是共几位

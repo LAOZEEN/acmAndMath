@@ -1,0 +1,6 @@
+https://blog.csdn.net/ling_wang/article/details/79830980#commentBox
+
+
+二分图的最小点覆盖数=该二分图的最大匹配数
+https://blog.csdn.net/ACMer_ZP/article/details/78570926
+最小路径覆盖=总节点数-最大匹配数；POJ - 3020 

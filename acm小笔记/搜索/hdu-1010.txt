@@ -1,0 +1,13 @@
+思路:还是DFS,不能用BFS,因为BFS求的是最短路径,而此题的路径不一定最短.
+剪枝是关键,奇偶剪枝.
+
+剪枝（1）
+int temp=(t-time)-(abs(x-ex)+abs(y-ey));
+    if(temp<0||temp&1)
+        return;
+剪枝（2）
+   if(m*n-x<=t)
+        {
+            cout<<"NO"<<endl;
+            continue;
+        }

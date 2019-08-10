@@ -1,0 +1,2 @@
+线段树还可以维护最大连续子序列和啊。。没想到
+https://blog.csdn.net/lin375691011/article/details/19932765

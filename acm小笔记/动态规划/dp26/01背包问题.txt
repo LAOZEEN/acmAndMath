@@ -1,0 +1,70 @@
+网址
+https://blog.csdn.net/kangroger/article/details/38864689
+
+void FindMax()//动态规划
+{
+    int i,j;
+    //填表
+    for(i=1;i<=number;i++)
+    {
+        for(j=1;j<=capacity;j++)
+        {
+            if(j<w[i])//包装不进
+            {
+                V[i][j]=V[i-1][j];
+            }
+            else//能装，这个表示首先拿出w[i]，之后决定考虑是否放进，若放进，再决定其他几个应该怎么挑选
+            {
+                if(V[i-1][j]>V[i-1][j-w[i]]+v[i])//不装价值大
+                {
+                    V[i][j]=V[i-1][j];
+                }
+                else//前i-1个物品的最优解与第i个物品的价值之和更大
+                {
+                    V[i][j]=V[i-1][j-w[i]]+v[i];
+                }
+            }
+        }
+    }
+}
+
+void FindMaxBetter()//优化空间后的动态规划
+{
+    int i,j;
+    for(i=1;i<=number;i++)
+    {
+        for(j=capacity;j>=0;j--)
+        {
+            if(B[j]<=B[j-w[i]]+v[i] && j-w[i]>=0 )//二维变一维,从尾部开始循环，是怕重复放入同一种物体，因为每种物体只有一件
+            {
+                B[j]=B[j-w[i]]+v[i];
+            }
+        }
+    }
+}
+
+POJ - 1837
+dp[0][7500]=1;//为了初始化dp[1][7506]=1;dp[1][7508]=1;dp[1][7510]=1.....
+for(int i=1;i<=g;i++){
+ //物品的种类，
+       for(int j=1;j<=c;j++){
+ //铁钩数目，和k循环（双重循环）一起决定每一行的dp数据大小
+	       if(l[j]>=0){
+              	  for(int k=15000;k>=l[j]*w[i];k--){
+//背包大小
+              	      dp[i][k]+=dp[i-1][k-l[j]*w[i]];//目前的dp[i][k]数据==之前dp[i][k]的数据+个数少一个dp[i-1][k-l[j]*w[i]]
+             	  }else{
+
+           	     for(int k=0;k<=15000-l[j]*w[i];k++){
+
+           	         dp[i][k]+=dp[i-1][k-l[j]*w[i]];
+
+            	    }
+
+           	 }
+ 
+       }
+
+    }
+
+    printf("%d\n",dp[g][7500]);

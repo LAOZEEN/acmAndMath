@@ -1,0 +1,50 @@
+阶段性训练
+https://blog.csdn.net/dreamzuora/article/details/52747928
+
+
+KMP算法https://blog.csdn.net/f1033774377/article/details/82556438
+https://blog.csdn.net/u014390156/article/details/81474895
+
+哈希https://wenku.baidu.com/view/af87677fa76e58fafab003e5.html
+
+图论500题
+https://blog.csdn.net/luomingjun12315/article/details/47438607
+
+
+ACM训练史上最详细计划
+https://blog.csdn.net/swustzhaoxingda/article/details/81188156
+
+acm 各种树的合集
+https://blog.csdn.net/niechangxu1994/article/details/40979417
+
+
+
+
+HDU-1325 is it a tree？
+HDU 1863 1213 kruskal算法
+一个很有意思的并查集详解https://blog.csdn.net/u013546077/article/details/64509038
+
+快速幂https://www.cnblogs.com/cmmdc/p/6936196.html
+
+dp水题https://www.cnblogs.com/13224ACMer/p/4998674.html
+HDU - 1028 
+HDU 2372 El Dorado（DP）	
+for(int i = 1; i <= n; i++) //以i結尾,i表示子串结尾一定是a[i]
+{
+	for(int j = 1; j <= i; j++)	//長度為j的上升子序列由長度為j-1的上升子序列求出
+	{
+		for(int g = j-1; g < i; g++)//枚舉長度為j-1的上升子序列的終點
+		{
+			if(a[g] < a[i])
+			dp[i][j] += dp[g][j-1];
+			printf("dp[%d][%d] += dp[%d][%d]===%I64d\n",i,j,g,j-1,dp[i][j]); 
+		}
+	}
+}
+
+
+记忆化搜索：https://www.cnblogs.com/fu11211129/p/4276213.html
+01背包https://blog.csdn.net/kangroger/article/details/38864689
+
+Kosaraju算法https://blog.csdn.net/summer_dew/article/details/83047190
+https://blog.csdn.net/NichChen/article/details/84593566

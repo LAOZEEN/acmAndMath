@@ -1,0 +1,110 @@
+Tag:INFO LocalTime:20190403 16:11:09.108 MeetingId:-000000001 DisplayName:asus Message:Machine Id=           86MBW1OHT Manufacture=ASUSTeK COMPUTER INC. Model=X556UR AirBoardVersion=Version 4.1.6179.38188(win20161201) 
+Tag:VoiceConst LocalTime:20190403 16:11:43.439 MeetingId:147258369 DisplayName:asus Message:{"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300} 
+Tag:WasapiMode LocalTime:20190403 16:11:44.907 MeetingId:147258369 DisplayName:asus Message:Shared Mode 
+Tag:VoiceCaptureMode LocalTime:20190403 16:11:44.913 MeetingId:147258369 DisplayName:asus Message:内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek High Definition Audio)@{0.0.1.00000000}.{5d3481b3-f543-4f51-9213-5ec91a611be3} 
+Tag:SoundHasDataDelay>=40 LocalTime:20190403 16:11:50.173 MeetingId:147258369 DisplayName:asus Message:间隔=46ms 播放队列=50ms 录音队列=40ms Delta = 0ms 
+Tag:SoundHasDataDelay>=40 LocalTime:20190403 16:12:08.825 MeetingId:147258369 DisplayName:asus Message:间隔=57ms 播放队列=60ms 录音队列=50ms Delta = 18652ms 
+Tag:NetworkQuality LocalTime:20190403 16:13:53.249 MeetingId:147258369 DisplayName:asus Message:Quality = 98.00% 
+Tag:PlaybackState LocalTime:20190403 16:15:09.951 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=-1ms 
+Tag:PlaybackState LocalTime:20190403 16:15:24.245 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=14290ms 
+Tag:ReceiveJitter LocalTime:20190403 16:15:24.585 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=677ms Delta = 0ms 
+Tag:PlaybackState LocalTime:20190403 16:15:24.594 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=346ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:15:24.612 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 650ms Delta = 0ms 
+Tag:PlaybackState LocalTime:20190403 16:15:30.277 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=5678ms 
+Tag:ReceiveJitter LocalTime:20190403 16:15:30.721 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=767ms Delta = 6136ms 
+Tag:PlaybackState LocalTime:20190403 16:15:30.730 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=450ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:15:30.746 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 770ms Delta = 6135ms 
+Tag:PlaybackState LocalTime:20190403 16:15:31.815 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=1081ms 
+Tag:ReceiveJitter LocalTime:20190403 16:15:31.846 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=341ms Delta = 1124ms 
+Tag:PlaybackState LocalTime:20190403 16:15:31.877 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=57ms 
+Tag:PlaybackState LocalTime:20190403 16:16:02.455 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=30575ms 
+Tag:ReceiveJitter LocalTime:20190403 16:16:02.835 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 30989ms 
+Tag:PlaybackState LocalTime:20190403 16:16:02.844 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=384ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:16:02.865 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 760ms Delta = 32120ms 
+Tag:PlaybackState LocalTime:20190403 16:16:11.743 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=8891ms 
+Tag:ReceiveJitter LocalTime:20190403 16:16:12.407 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=962ms Delta = 9573ms 
+Tag:PlaybackState LocalTime:20190403 16:16:12.419 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=672ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:16:12.436 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 530ms Delta = 9570ms 
+Tag:ReceiveJitter LocalTime:20190403 16:16:12.582 MeetingId:147258369 DisplayName:asus Message:{
+  "JitterUserName": "Jiaaaaaaaqi",
+  "LostFrameCount": 4,
+  "LastFrameIndex": 6975,
+  "NowFrameIndex": 6970
+} Delta = 176ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:16:12.594 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 520ms Delta = 158ms 
+Tag:PlaybackState LocalTime:20190403 16:16:12.897 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=473ms 
+Tag:ReceiveJitter LocalTime:20190403 16:16:13.108 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=514ms Delta = 525ms 
+Tag:PlaybackState LocalTime:20190403 16:16:13.118 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=217ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:16:13.136 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 690ms Delta = 542ms 
+Tag:PlaybackState LocalTime:20190403 16:16:54.056 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=40933ms 
+Tag:ReceiveJitter LocalTime:20190403 16:16:54.462 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=743ms Delta = 41354ms 
+Tag:PlaybackState LocalTime:20190403 16:16:54.472 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=413ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:16:54.491 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 570ms Delta = 41355ms 
+Tag:PlaybackState LocalTime:20190403 16:16:54.797 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=319ms 
+Tag:ReceiveJitter LocalTime:20190403 16:16:54.956 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=483ms Delta = 493ms 
+Tag:PlaybackState LocalTime:20190403 16:16:54.963 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=163ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:16:54.981 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 620ms Delta = 489ms 
+Tag:PlaybackState LocalTime:20190403 16:17:11.934 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=16966ms 
+Tag:ReceiveJitter LocalTime:20190403 16:17:12.353 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=756ms Delta = 17398ms 
+Tag:PlaybackState LocalTime:20190403 16:17:12.363 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=425ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:17:12.381 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 17400ms 
+Tag:ReceiveJitter LocalTime:20190403 16:17:20.520 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=207ms Delta = 8167ms 
+Tag:SoundHasDataDelay>=80 LocalTime:20190403 16:17:45.333 MeetingId:147258369 DisplayName:asus Message:间隔=91ms 播放队列=10ms 录音队列=90ms Delta = 0ms 
+Tag:PlaybackState LocalTime:20190403 16:18:41.926 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=89558ms 
+Tag:ReceiveJitter LocalTime:20190403 16:18:42.204 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=603ms Delta = 81684ms 
+Tag:PlaybackState LocalTime:20190403 16:18:42.241 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=310ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:18:42.258 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 610ms Delta = 89877ms 
+Tag:PlaybackState LocalTime:20190403 16:18:43.767 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=1521ms 
+Tag:ReceiveJitter LocalTime:20190403 16:18:44.147 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=522ms Delta = 1942ms 
+Tag:PlaybackState LocalTime:20190403 16:18:44.158 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=387ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:18:44.176 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 690ms Delta = 1918ms 
+Tag:PlaybackState LocalTime:20190403 16:18:55.490 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=11326ms 
+Tag:ReceiveJitter LocalTime:20190403 16:18:55.921 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=756ms Delta = 11775ms 
+Tag:PlaybackState LocalTime:20190403 16:18:55.956 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=462ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:18:55.974 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 780ms Delta = 11798ms 
+Tag:PlaybackState LocalTime:20190403 16:19:25.323 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=29362ms 
+Tag:ReceiveJitter LocalTime:20190403 16:19:25.754 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 29832ms 
+Tag:PlaybackState LocalTime:20190403 16:19:25.764 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=438ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:19:25.782 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 29809ms 
+Tag:PlaybackState LocalTime:20190403 16:19:26.097 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=328ms 
+Tag:ReceiveJitter LocalTime:20190403 16:19:26.438 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=674ms Delta = 685ms 
+Tag:PlaybackState LocalTime:20190403 16:19:26.483 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=383ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:19:26.500 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 700ms Delta = 717ms 
+Tag:PlaybackState LocalTime:20190403 16:20:23.333 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=56846ms 
+Tag:ReceiveJitter LocalTime:20190403 16:20:23.753 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=744ms Delta = 57315ms 
+Tag:PlaybackState LocalTime:20190403 16:20:23.763 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=426ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:20:23.781 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 57282ms 
+Tag:PlaybackState LocalTime:20190403 16:20:44.127 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=20358ms 
+Tag:ReceiveJitter LocalTime:20190403 16:20:44.558 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 20805ms 
+Tag:PlaybackState LocalTime:20190403 16:20:44.568 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=437ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:20:44.586 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 20805ms 
+Tag:PlaybackState LocalTime:20190403 16:20:53.863 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=9291ms 
+Tag:ReceiveJitter LocalTime:20190403 16:20:54.242 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=728ms Delta = 9684ms 
+Tag:PlaybackState LocalTime:20190403 16:20:54.250 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=383ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:20:54.267 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 690ms Delta = 9681ms 
+Tag:PlaybackState LocalTime:20190403 16:20:56.376 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=2122ms 
+Tag:ReceiveJitter LocalTime:20190403 16:20:56.808 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=769ms Delta = 2566ms 
+Tag:PlaybackState LocalTime:20190403 16:20:56.842 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=462ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:20:56.860 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 780ms Delta = 2593ms 
+Tag:PlaybackState LocalTime:20190403 16:21:04.493 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=7646ms 
+Tag:ReceiveJitter LocalTime:20190403 16:21:04.911 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=755ms Delta = 8103ms 
+Tag:PlaybackState LocalTime:20190403 16:21:04.996 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=501ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:21:05.013 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 820ms Delta = 8153ms 
+Tag:PlaybackState LocalTime:20190403 16:21:34.282 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=29281ms 
+Tag:ReceiveJitter LocalTime:20190403 16:21:34.740 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=782ms Delta = 29828ms 
+Tag:PlaybackState LocalTime:20190403 16:21:34.754 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=468ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:21:34.771 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 29757ms 
+Tag:NetworkQuality LocalTime:20190403 16:22:27.694 MeetingId:147258369 DisplayName:asus Message:Quality = 97.00% 
+Tag:NetworkQuality LocalTime:20190403 16:22:47.868 MeetingId:147258369 DisplayName:asus Message:Quality = 94.00% 
+Tag:SoundCardDelay LocalTime:20190403 16:22:57.818 MeetingId:147258369 DisplayName:asus Message:Median=436 Std=4 VadRatio=46% 
+Tag:NetworkQuality LocalTime:20190403 16:23:18.129 MeetingId:147258369 DisplayName:asus Message:Quality = 98.00% 
+Tag:PlaybackState LocalTime:20190403 16:23:26.607 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=111848ms 
+Tag:ReceiveJitter LocalTime:20190403 16:23:26.972 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=715ms Delta = 112232ms 
+Tag:PlaybackState LocalTime:20190403 16:23:26.984 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=375ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:23:27.003 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 730ms Delta = 112233ms 
+Tag:PlaybackState LocalTime:20190403 16:23:57.512 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A1 Stage 总长度=30521ms 
+Tag:ReceiveJitter LocalTime:20190403 16:23:57.918 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=717ms Delta = 30946ms 
+Tag:PlaybackState LocalTime:20190403 16:23:57.924 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | A0 Stage 总长度=410ms 
+Tag:PlaybackStateShrink LocalTime:20190403 16:23:57.941 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 声音缓冲大小 = 700ms Delta = 30938ms 
+Tag:ReceiveJitter LocalTime:20190403 16:23:58.736 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=220ms Delta = 819ms 
+Tag:ReceiveJitter LocalTime:20190403 16:24:06.096 MeetingId:147258369 DisplayName:asus Message:用户=Jiaaaaaaaqi | 接收Jitter长度=208ms Delta = 7360ms 

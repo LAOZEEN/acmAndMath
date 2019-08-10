@@ -1,0 +1,4 @@
+To The Max HDU - 1081 
+将二维矩阵的dp转化成多个一维矩阵的dp
+题目//https://cn.vjudge.net/contest/279594#problem/B
+答案//https://blog.csdn.net/deepseazbw/article/details/78898520

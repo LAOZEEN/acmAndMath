@@ -1,0 +1,41 @@
+long gcd(long a, long b)
+{
+    if (!b)
+    {
+        return a;
+    }
+    else
+    {
+        return gcd(b, a % b);
+    }
+    return 0;
+}
+辗转相除法，也是欧几里得定理的应用
+上面的是递归实现的过程，用迭代实现也很容易，如下（C）：
+
+
+int gcd(int a, int b)
+
+{
+
+        int c = a % b;
+ 
+       while(c)
+
+        {
+
+               a = b;
+ 
+               b = c;
+ 
+               c = a % b;
+
+        }
+
+        return b;
+
+}
+
+
+
+

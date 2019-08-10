@@ -1,0 +1,16 @@
+long long lcm(long long A, long long B)
+{
+    long long C, D, E;
+    C = A;
+    D = B;
+    E = A % B;
+    while (E)
+    {
+        C = D;
+        D = E;
+        E = C % D;
+    }
+    return (A * B / D);
+}
+
+等于求出最大公约数D，然后A*B的积除以最大公约数

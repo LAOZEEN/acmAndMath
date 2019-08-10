@@ -1,0 +1,9 @@
+﻿{
+  "EndPoint": "cn-hangzhou.sls.aliyuncs.com",
+  "AccessKeyId": "4TY2p8t8TT5kz7BR",
+  "AccessKeySecret": "w9qnsp6uOnr5MqPg8wQOAPgmkziwVi",
+  "LogProject": "ablog",
+  "LogStore": "store",
+  "MaxRetries": "5",
+  "LogFileRoot": "Log\\"
+}

@@ -1,0 +1,26 @@
+ __int64 MaxArea = -0xffffff0;
+ 
+        for(int i = 1; i <= M; i++)
+        {
+            for(int j = 1; j <= N; j++)
+                l[j] = r[j] = j;
+            l[0] = 1;
+            r[N+1] = N;
+            h[i][0] = -1;
+            h[i][N+1] = -1;
+            for(int j = 1; j <= N; j++)//урвС╠ъ╫Г
+            {
+                while(h[i][l[j]-1] >= h[i][j])
+                    l[j] = l[l[j]-1];
+            }
+            for(int j = N; j >= 1; j--)//урср╠ъ╫Г
+            {
+                while(h[i][r[j]+1] >= h[i][j])
+                    r[j] = r[r[j]+1];
+            }
+            for(int j = 1; j <= N; j++)
+            {
+                if(h[i][j]*(r[j]-l[j]+1) > MaxArea)
+                    MaxArea = h[i][j]*(r[j]-l[j]+1);
+            }
+        }

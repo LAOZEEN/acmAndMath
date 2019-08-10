@@ -1,0 +1,7 @@
+Tag:INFO LocalTime:20181212 22:52:22.767 MeetingId:-000000001 DisplayName:Riven Message:Machine Id=            WDE3BG9A Manufacture=Dell Inc. Model=Inspiron 15 7000 Gaming AirBoardVersion=Version 4.1.6179.38188(win20161201) 
+Tag:VoiceConst LocalTime:20181212 22:52:32.044 MeetingId:123456789 DisplayName:Riven Message:{"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300} 
+Tag:WasapiMode LocalTime:20181212 22:52:32.460 MeetingId:123456789 DisplayName:Riven Message:Shared Mode 
+Tag:VoiceCaptureMode LocalTime:20181212 22:52:32.472 MeetingId:123456789 DisplayName:Riven Message:内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b} 
+Tag:VoiceConst LocalTime:20181212 22:54:19.365 MeetingId:218652542 DisplayName:Riven Message:{"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300} 
+Tag:WasapiMode LocalTime:20181212 22:54:19.541 MeetingId:218652542 DisplayName:Riven Message:Shared Mode 
+Tag:VoiceCaptureMode LocalTime:20181212 22:54:19.543 MeetingId:218652542 DisplayName:Riven Message:内部模式(Internal) MicphoneCapture Device 麦克风 (Realtek Audio)@{0.0.1.00000000}.{b54a9a5d-cb37-4097-b11f-6671affdf06b} 

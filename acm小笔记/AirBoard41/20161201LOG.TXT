@@ -1,8 +1,0 @@
-20161201 21:15:55.211 [INFO],-000000001,黄宇扬的PC Machine Id=S22SNXAG947126V Manufacture=Gigabyte Technology Co., Ltd. Model=B85M-D3H AirBoardVersion=Version 4.1.6179.38188(win20161201)
-
-20161201 21:16:01.179 [VoiceConst],863863863,黄宇扬的PC {"AgcGainLevelForMicphone":-1,"PlaybackHighBound":500,"PlaybackBufferInMs":250,"MicphoneBufferInMs":250,"SkewMarginInMs":30,"PackageFrameCount":2,"EncodeThreadNeedToDelay":8,"PlaybackLowBound":300}
-
-20161201 21:16:01.245 [WasapiMode],863863863,黄宇扬的PC Shared Mode
-
-20161201 21:16:01.248 [VoiceCaptureMode],863863863,黄宇扬的PC 内部模式(Internal) MicphoneCapture Device 麦克风 (HD Webcam C270)@{0.0.1.00000000}.{d1725599-0f08-439d-8558-42de950eceeb}
-

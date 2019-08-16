@@ -1,7 +1,7 @@
 https://www.cnblogs.com/TenosDoIt/p/3453089.html
 
 https://blog.csdn.net/qq_39826163/article/details/81436440
-
+https://blog.csdn.net/qq_37451344/article/details/80261955
 1.无论是建树，查树，还是改树，注意找到某个具体结点的条件都是：nd[root].l==nd[root].r
 2.注意查结点时候，查询return先放在第一位，因为l<=mid是查到结点的充分不必要条件
 	if(nd[root].l==nd[root].r){

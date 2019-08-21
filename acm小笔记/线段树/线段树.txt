@@ -14,3 +14,4 @@ https://blog.csdn.net/qq_37451344/article/details/80261955
 	}
 
 3.修改单一节点是在查询单个结点算法的基础上的
+4.查询时候注意，题目的测试用例可能left>right，所以要用swap修正下

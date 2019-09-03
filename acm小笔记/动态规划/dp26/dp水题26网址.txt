@@ -1,5 +1,4 @@
 dp26水题
 https://www.cnblogs.com/13224ACMer/p/4998674.html
-HDU 2955 1864 01背包问题
 HDU 1506 1505 最大子矩阵问题
 HDU 2084 1176 数塔问题
